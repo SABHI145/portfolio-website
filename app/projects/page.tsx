@@ -10,7 +10,7 @@ const projects = [
     title: "Fingerprint Door Lock Authentication",
     description: "A secure biometric authentication system using fingerprint recognition and IoT.",
     image: "/fingerprint-lock.jpg",
-    images: ["/ChatGPT Image Apr 3, 2025, 09_36_46 AM-Photoroom.png", "/fingerprint2.jpg", "/fingerprint3.jpg"], // Add multiple images
+    images: ["/1.jpg", "/2.jpg", "/3.jpg","/Screenshot 2025-04-03 151515.png"], // Add multiple images
     technologies: ["Arduino", "Python", "Fingerprint Sensor", "IoT"],
     github: "https://github.com/abhishek/fingerprint-lock",
     demo: "https://fingerprint-lock-demo.vercel.app",
